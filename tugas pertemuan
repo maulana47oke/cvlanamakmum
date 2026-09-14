@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CV Muhammad Maulana Makmum</title>
+</head>
+
+<body>
+
+    <!-- FOTO DAN NAMA -->
+    <div style="display: flex; align-items: center; gap: 30px;">
+
+    <img src="lanafotolan.jpg.jpeg"
+  alt="Foto Profil"
+ width="150"
+ style="border-radius: 50%;">
+
+  <h1>MUHAMMAD MAULANA MAKMUM</h1>
+
+    </div>
+
+    <hr>
+
+    <!-- KONTAK -->
+    <h2>Kontak</h2>
+
+    <p>
+    📍 Banjarmasin, Kalimantan Selatan, Indonesia.<br>
+    📱 No. HP: +62 853-4686-8277<br>
+    📧 Email: makmummaulana47@gmail.com
+
+</p>
+
+    <hr>
+
+    <!-- TENTANG SAYA -->
+    <h2>Tentang Saya</h2>
+
+    <p>
+ Lulusan SMA jurusan Ilmu Pengetahuan Sosial yang aktif saat belajar,
+ terutama dalam hal kerja sama tugas kelompok, serta aktif dalam kegiatan
+ organisasi di sekolah, termasuk ekstrakurikuler basket dan voli.
+ Selain itu, saya dipilih oleh teman-teman seangkatan saya untuk menjabat
+ sebagai Wakil Ketua Panitia Angkatan 46,
+ saat kelas 12. Memiliki pengalaman kerja lapangan dalam pekerjaan
+ pengurukan dan perataan pasir di jalan menggunakan cangkul dan sekop
+ guna menghasilkan permukaan yang rapi dan rata. Memiliki pengalaman
+ sebagai Humas di komunitas dengan tugas menjadi penghubung antara pihak
+ komunitas dan pihak yang dihubungi dalam kegiatan berbagi, serta melakukan
+ survei lokasi untuk persiapan kegiatan.
+ Saat ini saya menjadi mahasiswa di Politeknik Negeri Banjarmasin,
+ jurusan Administrasi Bisnis, Program Studi D4 Bisnis Digital.
+    </p>
+
+    <hr>
+
+    <!-- KEAHLIAN -->
+    <h2>Keahlian</h2>
+
+    <ul>
+   <li>Kerja Tim & Komunikasi</li>
+   <li>Disiplin dan Tanggung Jawab</li>
+   <li>Mampu Bekerja di Bawah Tekanan</li>
+   <li>Manajemen Waktu</li>
+   <li>Cepat Belajar dan Adaptif</li>
+    </ul>
+
+    <hr>
+
+    <!-- BAHASA -->
+    <h2>Bahasa</h2>
+
+    <ul>
+        <li>Bahasa Indonesia: Aktif</li>
+    </ul>
+
+    <hr>
+
+    <!-- PENDIDIKAN -->
+    <h2>Pendidikan</h2>
+
+    <h3>SMA NEGERI 4 BANJARMASIN</h3>
+    <p>
+   Jurusan IPS<br>
+  2023 - 2026
+    </p>
+
+    <h3>POLITEKNIK NEGERI BANJARMASIN</h3>
+    <p>
+ Jurusan Administrasi Bisnis<br>
+ Program Studi D4 Bisnis Digital<br>
+ 2026 - Sekarang
+    </p>
+
+    <hr>
+
+    <!-- PENGALAMAN -->
+    <h2>Pengalaman</h2>
+
+    <h3>PT Fitria Trans Tamara</h3>
+    <p>
+        2024 - Kerja Lapangan
+    </p>
+
+    <ul>
+   <li>
+ Melakukanpengurukan dan perataan pasir bersama tim guna menghasilkan permukaan jalan yang rata dan tidak berlubang.
+ </li>
+    </ul>
+
+    <h3>SMA Negeri 4 Banjarmasin</h3>
+    <p>
+        2023 - 2025 - Ekstrakurikuler
+    </p>
+
+    <ul>
+        <li>Basket</li>
+        <li>Voli</li>
+    </ul>
+
+    <h3>SMA Negeri 4 Banjarmasin</h3>
+    <p>
+        2026 - Wakil Ketua Panitia Angkatan 46 Kelas 12
+    </p>
+
+    <ul>
+ <li>
+  Membantu mengoordinasikan kegiatan kegiatan angkatan bersama anggota panitia.
+ </li>
+<li>
+  Memberikan ide dan masukan dalam persiapan serta pelaksanaan kegiatan.
+  </li>
+    </ul>
+
+    <h3>Komunitas Sedikit Sedekah</h3>
+    <p>
+  2026 - Humas
+    </p>
+
+    <ul>
+  <li>
+   Menjadi penghubung antara pannitia kegiatan sosial dengan pihak-pihak yang dihubungi untuk pelaksanaan
+    kegiatan berbagi.
+  </li>
+   <li>
+  Mengkoordinasikan komunikasi terkait kegiatan sosial dan berbagi.
+ </li>
+  <li>
+  melakukan survei lokasi untuk menentukan tempat yang sesuai untuk pelaksanaan kegiatan.
+</li>
+<li>Membantu memastikan informasi dan kebutuhan kegiatan tersampaikan dengan baik kepada pihak terkait.</li> 
+</ul>
+
+</body>
+
+</html>
