@@ -1,0 +1,12 @@
+*{
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #1c1d1c;
+    background-color: #1ee696;
+}
+table {
+    background-color: rgb(241, 147, 6);
+    margin: auto auto;
+    border: 1px solid;
+}
